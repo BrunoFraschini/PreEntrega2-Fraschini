@@ -1,0 +1,23 @@
+.menu { 
+    display: flex;
+   
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+
+}
+
+.imgBrand {
+    height: 150px;
+    
+}
+
+.box {
+    height: 50px;
+    width: 100px;
+    border: solid 3px black;
+    text-align: center;
+}
